@@ -12,7 +12,7 @@ void Sapxepctt(int a[], int n){
 		swap(a[min], a[i]);
 	}
 }
- main()
+int main()
 {
 	int a[6] = {41, 23, 4, 14, 56, 1};
 	Sapxepctt(a, 6);
